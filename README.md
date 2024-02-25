@@ -9,3 +9,19 @@
 
 ### Remarks:
 🔍 The main code file should be executed in Jupyter Notebook environment. <br>
+🚫 This is for demonstration purpose. Dataset is downloaded from --> `www.kaggle.com`
+
+### Operation include:
+- Null_Counts
+- correlation
+- standard deviation
+- mean
+  
+- DataFrame:
+    - renaming columns
+    - new DataFrame using existing columns
+    - slicing
+    - conditional operation
+    - grouping
+      
+      
