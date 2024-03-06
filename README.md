@@ -5,7 +5,7 @@
 ### Files:
 
 - **Main Code File**: `soccer.ipynb`
-- **File containing data**: `data.csv` (Same function as abusive for removal)
+- **File containing data**: `data.csv`
 
 ### Remarks:
 🔍 The main code file should be executed in Jupyter Notebook environment. <br>
